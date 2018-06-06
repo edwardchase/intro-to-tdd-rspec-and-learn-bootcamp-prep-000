@@ -4,3 +4,4 @@ def current_age_for_birth_year(year)
 end
 
 year = 1999;
+current_age_for_birth_year(year)
